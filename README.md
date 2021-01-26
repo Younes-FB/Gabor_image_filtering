@@ -7,7 +7,7 @@ The code filters the input image (or image stack in .tif format) with the 2D gab
 The term exp(-pi*(sigma/lambda)^2) is the inherent DC component as shown by: Movellan, J. R. - Tutorial on Gabor Filters. Tech. rep., 2002.
  
 
-Guide to GUI (Gobar_image_filtering):
+Guide to GUI (Gabor_image_filtering):
 1) Download loadtiff.m,Gobar_image_filtering.m, and Gobar_image_filtering.fig files and put them in the same directory.
 2) Run Gobar_image_filtering.m in Matlab (the code is used in matlab 2017  and matlab 2020)
 3) Load tif image/stack using ¨Load an image¨ buttonthen you can see the image in Raw image axis (image intensity can be increased using Intensity (gain) slider)
