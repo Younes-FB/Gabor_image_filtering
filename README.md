@@ -1,4 +1,4 @@
-# Gobar_image_filtering
+# Gabor_image_filtering
 This GUI programs uses the gabor filter with 5 scale (lambda,sigma,gama,psi) and 5 orientations (tetha=0:pi/4:pi). 
 The code filters the input image (or image stack in .tif format) with the 2D gabor filter described by G:
 
